@@ -29,7 +29,7 @@
 
   ##
 
-  ![Snake animation](https://github.com/Luccacvb/Luccacvb/blob/master/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Luccacvb/Luccacvb/blob/main/dist/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  

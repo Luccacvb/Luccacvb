@@ -27,15 +27,4 @@
   target="_blank"></a> 
 </div>
 
-  ##
-
 ![Snake animation](https://github.com/Luccacvb/Luccacvb/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- 
-
- 
- 
-
-
-

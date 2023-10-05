@@ -23,11 +23,20 @@
 <div>
   <a href="https://instagram.com/luccaboas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luccavilasboas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucca-vilas-boas-15181118a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucca-vilas-boas-15181118a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     
+  target="_blank"></a> 
 
    ![Snake animation](https://github.com/Luccacvb/Luccacvb/blob/output/github-contribution-grid-snake.svg)
 
   </div>
+
+  ##
+
+ ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Luccacvb/Luccacvb/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
+
  
  
 

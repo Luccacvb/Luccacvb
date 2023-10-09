@@ -1,6 +1,6 @@
 ### Ola, me chamo Lucca
 
-- 🔭 Atualmente trabalhando com front-end
+- 🔭 Atualmente trabalhando com front-end e mobile
 - 🌱 Estudando automações como Puppeteer(JS)
 
 <div>

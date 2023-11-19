@@ -1,7 +1,7 @@
 ### Ola, me chamo Lucca
 
 - 🔭 Atualmente trabalhando com front-end e mobile
-- 🌱 Estudando automações como Puppeteer(JS)
+- 🌱 Estudando IA como TensorFlow.js
 
 <div>
   <a href="https://github.com/Luccacvb">

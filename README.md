@@ -1,7 +1,7 @@
 ### Ola, me chamo Lucca
 
 - 🔭 Atualmente trabalhando com front-end e mobile
-- 🌱 Estudando IA como TensorFlow.js
+- 🌱 Atualmente desenvolvendo um projeto utilizando a API da openAi integrado ao venom-bot
 
 <div>
   <a href="https://github.com/Luccacvb">

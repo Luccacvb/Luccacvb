@@ -1,7 +1,8 @@
-### Ola, me chamo Lucca
+### Hello, I'm Lucca!
 
-- 🔭 Atualmente trabalhando com front-end e mobile
-- 🌱 Atualmente desenvolvendo um projeto utilizando a API da openAi integrado ao venom-bot
+- 🔭 Frontend & Mobile Developer | Working with React, React Native & scalable applications
+- 🌱 Exploring AI by integrating OpenAI API with Venom-Bot
+- 💡 Learning backend development with Python & Django
 
 <div>
   <a href="https://github.com/Luccacvb">

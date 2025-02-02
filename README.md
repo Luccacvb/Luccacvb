@@ -1,8 +1,8 @@
 ### Hello, I'm Lucca!
 
 - 🔭 Frontend & Mobile Developer | Building scalable applications with React & React Native  
-- 🤖 Exploring AI | Integrating OpenAI API with Venom-Bot & BrainFlow
-- 💡 Learning Backend Development | Expanding knowledge in Python & Django
+- 🤖 Exploring AI | Integrating OpenAI API | Exploring AI Libraries like TensorFlow and BrainFlow
+- 💡 Backend Development | Expanding knowledge in Python & Django
 
 
 <div>

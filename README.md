@@ -1,10 +1,5 @@
 ### Hello, I'm Lucca!
 
-- 🔭 Frontend & Mobile Developer | Building scalable applications with React & React Native  
-- 🤖 Exploring AI | Integrating OpenAI API | Exploring AI Libraries like TensorFlow and BrainFlow
-- 💡 Backend Development | Expanding knowledge in Python & Django
-
-
 <div>
   <a href="https://github.com/Luccacvb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccacvb&layout=compact&langs_count=16&theme=transparent"/>

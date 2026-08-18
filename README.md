@@ -11,11 +11,9 @@
       <img align="center" alt="Lucca-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   </div>
 
-
-  ##
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luccacvb&theme=tokyonight" />
-  </div>
-
+   <!-- 
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luccacvb&theme=tokyonight" />
+      </div>
+  -->
   <!-- ![Snake animation](https://github.com/Luccacvb/Luccacvb/blob/output/github-contribution-grid-snake.svg) -->

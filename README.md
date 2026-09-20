@@ -1,6 +1,7 @@
   ### Hello, I'm Lucca! 👋
+  Software Engineer building production systems across Full Stack, Cloud and Generative AI, from scalable products to AI agents and automation.
 
-  <div style="display: inline_block"><br>
+<!--  <div style="display: inline_block"><br>
       <img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Lucca-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Lucca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -10,6 +11,7 @@
       <img align="center" alt="Lucca-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
       <img align="center" alt="Lucca-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   </div>
+<!--
 
    <!-- 
       <div align="center">

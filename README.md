@@ -1,5 +1,5 @@
-  ### Hello, I'm Lucca! 👋
-  Software Engineer building production systems across Full Stack, Cloud and Generative AI, from scalable products to AI agents and automation.
+### Hello, I'm Lucca 👋
+Software Engineer working on Product Reliability and Generative AI in production.
 
 <!--  <div style="display: inline_block"><br>
       <img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
